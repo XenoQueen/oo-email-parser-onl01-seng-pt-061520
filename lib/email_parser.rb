@@ -1,4 +1,6 @@
 class EmailAddressParser
   
-  attr_accessor :
+  attr_reader :addresses
+  
+  def 
 end
