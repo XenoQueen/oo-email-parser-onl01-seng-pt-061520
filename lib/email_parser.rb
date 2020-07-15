@@ -7,6 +7,6 @@ class EmailAddressParser
   end
   
   def parse
-    self.addresses.split.map
+    self.addresses.split.map{|email| 
   end
 end
