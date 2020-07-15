@@ -3,7 +3,7 @@ class EmailAddressParser
   attr_reader :addresses
   
   def initialize(emails)
-    @@addresses = emails
+    @addresses = emails
   end
   
   
